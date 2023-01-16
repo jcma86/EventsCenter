@@ -1,6 +1,7 @@
 #ifndef __TOOLS_NOTIFICATION_CENTER_EMITTER__
 #define __TOOLS_NOTIFICATION_CENTER_EMITTER__
 
+#include <string.h>
 #include <vector>
 #include <functional>
 
